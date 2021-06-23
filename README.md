@@ -1,7 +1,7 @@
 # Rusu-kalbos-phonetine-klaviatura (Neleido lietuviškom raidėm rašyt)
 Rusų kalbos phonetinė klaviatūra 
 
-Sukūriau šia klaviatūra pagal „studentų“ variantą, bet biški pakeičiau vienas ir antras dalis. 
+Sukūriau šia klaviatūra pagal „studentų“ variantą, bet biški pakeičiau vienas ir antras dalis. Su rusiškom kabutėm, net su senom prieš sovietmetinio pakeitimo raidėm.
 
 Ja sukūriau pats (Pagal padaryta pavyzdį) naudodamas „Microsoft keyboard layout creator 1.4“
 
