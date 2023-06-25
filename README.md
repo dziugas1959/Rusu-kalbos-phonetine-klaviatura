@@ -1,4 +1,4 @@
-# Rusu-kalbos-phonetine-klaviatura (Neleido lietuviškom raidėm rašyt)
+# Rusų kalbos phonetinė klaviatūra ЯШЕРТЫ Išdėstymas su senovinėm rusų kalbos raidėmis.
 Rusų kalbos phonetinė klaviatūra 
 
 Sukūriau šia klaviatūra pagal „studentų“ variantą, bet biški pakeičiau vienas ir antras dalis. Su rusiškom kabutėm, net su senom prieš sovietmetinio pakeitimo raidėm.
